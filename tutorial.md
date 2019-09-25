@@ -2,4 +2,4 @@ Hello World!
 a second line
 a third line
 
-a local change
+merge local and remote
